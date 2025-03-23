@@ -5,7 +5,7 @@ A powerful browser userscript that automatically exports your Steam game librari
 
 If you find this project useful, please consider giving it a star ⭐! It helps make the project more visible and encourages continued development.
 
-[![GitHub stars](https://img.shields.io/github/stars/mustafachyi/steam-games-export.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mustafachyi/steam-games-export/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/mustafachyi/steam-games-export?style=social&label=Star)](https://github.com/mustafachyi/steam-games-export/stargazers/)
 
 ## Features
 
