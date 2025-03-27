@@ -81,10 +81,9 @@ steam_games/
 ### WebSocket Server (Optional)
 1. Make sure Node.js is installed on your system
 2. Clone or download this repository
-3. Navigate to the server directory
-4. Run `npm install` to install dependencies
-5. Create an `accounts.txt` file with accounts in format `username:password` (one per line)
-6. Start the server with `npm start`
+3. Run `npm install` to install dependencies
+4. Create an `accounts.txt` file with accounts in format `username:password` (one per line)
+5. Start the server with `npm start`
 
 ## Usage
 
